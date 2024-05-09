@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("Welcome to Tugas Fahrul Dugong Market")
+st.write("Welcome to My Mini Market")
 
 total = 0
 barang = []
