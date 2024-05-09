@@ -1,3 +1,5 @@
+import streamlit as st
+
 print("Welcome Too Tugas Fahrul Dugong Market")
 
 total = 0
